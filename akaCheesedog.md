@@ -23,7 +23,7 @@
 &emsp;&emsp;&emsp;&emsp;**YYYY**\
 &emsp;&emsp;&emsp;&emsp;&emsp;**o**
 
-&emsp;&emsp;where the X's are your FACE-DOWN cards and the Y's are your FACE-UPS, and your POV is at the 'o.'
+&emsp;&emsp;where the **X**'s are your FACE-DOWN cards and the **Y**'s are your FACE-UPS, and your POV is at the '**o**.'
 
 2. Pick up your remaining pile, from step 3 of the deal. This is your starting hand.
 

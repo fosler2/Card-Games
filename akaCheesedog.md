@@ -69,5 +69,12 @@
 
 > - RULE 4. All previous rules apply to these stages.
 > - RULE 4a. Once you have played all of the cards in your hand, pick up your FACE-UP cards. These are now your hand, and you need to continue playing (essentially follow step 2 above) until you've gotten rid of all of those cards.
-> - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards blindly, one by one. You do not have to show your card. These moves are your "FLIPS." Sometimes, your turn will happen after someone picks up the pile, and this is called a "FREE FLIP" since your FACE-DOWN card is guaranteed to be playable on an empty pile.
-> - RULE 4c. Once you've run out of cards for the third time (meaning there are no more cards in your hand, and no more FACE-UP or FACE-DOWN cards left in front of you), congratulations! You've avoided defeat. The game continues until there is exactly one loser - everyone but this person will have played all their cards.
+> - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards, one by one. These moves are your "FLIPS." You may only look at one FACE-DOWN card on each FLIP.
+> - RULE 4c. If you have to pick up the pile on a FLIP, you do not have to show your card.
+> - RULE 4d. Sometimes, your FLIP will happen on an empty pile, either from a CLEAR or the previous player picking up the pile. This is called a "FREE FLIP" since your FLIP is guaranteed to be playable on an empty pile.
+> - RULE 4e. Once you've run out of cards for the third time (meaning you've completed all four of your FLIPS and there are no cards in your hand), congratulations! You've avoided defeat. The game continues until there is exactly one loser - everyone but this loser will have played all their cards.
+
+### Section 5 - Game Finished
+
+> - (optional) RULE 5a. Traditionally, the loser has to take a shot of the weirdest alcoholic drink available. For example, cheap cherry-flavored vodka.
+> - RULE 5b. Gather the cards, move the deal to the left, shuffle, and play again!

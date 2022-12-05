@@ -70,7 +70,7 @@
 
 > - RULE 4. All previous rules apply to these stages.
 > - RULE 4a. Once you have played all of the cards in your hand (from step 3 of the deal), pick up your FACE-UP cards. These are now your hand, and you need to continue playing until you've gotten rid of all of those cards.
-> - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards, one by one. These moves are your "FLIPS." You may only look at one FACE-DOWN card on each FLIP.
+> - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards, one by one. These moves are your "FLIPS." You may look at only one FACE-DOWN card on each FLIP.
 > - RULE 4c. If you have to pick up the pile on a FLIP, you do not have to show your card.
 > - RULE 4d. Sometimes, your FLIP will happen on an empty pile, either from a CLEAR or the previous player picking up the pile. This is called a "FREE FLIP" since your FLIP is guaranteed to be playable on an empty pile.
 > - RULE 4e. Once you've run out of cards for the third time (meaning you've completed all four of your FLIPS and there are no cards in your hand), congratulations! You've avoided defeat. The game continues until there is exactly one loser - everyone but this loser will have played all their cards.

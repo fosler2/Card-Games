@@ -1,10 +1,10 @@
-# **aka Cheesedog - A Game of Endless Fun**
+# **[CENSORED] aka Cheesedog - A Game of Endless Fun**
 
 #### _REQUIRES: 2 standard card decks, 3ish - 8ish players. 6 or 7 is a good number in my opinion. 10-30 minutes to play depending on the experience level of the players\._
 
 <br/>
 
-#### _Test your wits with a hearty game of [REDACTED] AKA CHEESEDOG - a perfect balance of chance and sneaky strategy!!! It's similar to Uno, but WAY BETTER. There are no winners, but there is always one loser. Credit to Jack for originally teaching me the rules._
+#### _Test your wits with a hearty game of [CENSORED] AKA CHEESEDOG - a perfect balance of chance and sneaky strategy!!! It's similar to Uno, but WAY BETTER. There are no winners, but there is always one loser. Credit to Jack for originally teaching me the rules._
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## _Individual Setup_
 
-1. Arrange your FACE-DOWN and FACE-UP cards however you prefer, but a good starting layout is:
+1. Arrange your four FACE-DOWN and four FACE-UP cards however you prefer, but a good starting layout is:
 
 &emsp;&emsp;&emsp;&emsp;**XXXX**\
 &emsp;&emsp;&emsp;&emsp;**YYYY**\
@@ -25,11 +25,11 @@
 
 &emsp;&emsp;where the X's are your FACE-DOWN cards and the Y's are your FACE-UPS, and your POV is at the 'o.'
 
-2. Pick up your remaining pile. This is your starting hand.
+2. Pick up your remaining pile, from step 3 of the deal. This is your starting hand.
 
 ## _Gameplay_
 
-0. The object of the game is to get rid of all your cards. When that happens, you've escaped from the clutches of ol' [REDACTED] aka Cheesedog.
+0. The object of the game is to get rid of all your cards. When a player completes this task, they will have avoided defeat. One of the players won't be so lucky - it's every player for themself in this game.
 1. The player to the left of the dealer starts the game by playing a card (or cards) in the middle of the table.
 2. Cards may be played according to the following rules:
 
@@ -65,10 +65,10 @@
 - 10 CLEAR
 - 2 LIFELINE
 
-### Section 4 - Mid-Game and End-Game Stages
+### Section 4 - FACE-UPS and FACE-DOWNS (FLIPS)
 
 > - RULE 4. All previous rules apply to these stages.
-> - RULE 4a. Once you have played all of the cards in your hand, pick up your FACE-UP cards. These are now your hand, and you need to continue playing (essentially follow step 2 above) until you've gotten rid of all of those cards.
+> - RULE 4a. Once you have played all of the cards in your hand (from step 3 of the deal), pick up your FACE-UP cards. These are now your hand, and you need to continue playing until you've gotten rid of all of those cards.
 > - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards, one by one. These moves are your "FLIPS." You may only look at one FACE-DOWN card on each FLIP.
 > - RULE 4c. If you have to pick up the pile on a FLIP, you do not have to show your card.
 > - RULE 4d. Sometimes, your FLIP will happen on an empty pile, either from a CLEAR or the previous player picking up the pile. This is called a "FREE FLIP" since your FLIP is guaranteed to be playable on an empty pile.

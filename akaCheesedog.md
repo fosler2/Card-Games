@@ -37,9 +37,10 @@
 
 > - RULE 1a: Played card(s) must be GREATER THAN or EQUAL TO the card at the top of the current pile.
 > - RULE 1b: If none of your cards can be legally played, you have to pick up the pile.
-> - RULE 1c: ACES are HIGH.
-> - RULE 1d: If you have multiple of the same card, you may play any number of them at the same time, including all of them at once.
-> - RULE 1e: Cards in your hand must be played first.
+> - RULE 1c: You may choose to pick up the pile even if you don't have to.
+> - RULE 1d: ACES are HIGH.
+> - RULE 1e: If you have multiple of the same card, you may play any number of them at the same time, including all of them at once.
+> - RULE 1f: Cards in your hand must be played first.
 
 ### Section 2 - Clearing the Pile
 

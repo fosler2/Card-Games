@@ -29,6 +29,7 @@
 2. Cards may be played according to the following rules:
 
 > - MAIN RULE: Played card(s) must be GREATER THAN or EQUAL TO the card value at the top of the current pile.
+> - MAIN RULE 2: If you have no cards to play, you have to pick up the pile.
 > - ACES are HIGH.
 > - If you have multiple of the same card, you may play them all at the same time.
 > - If there are FOUR or more of the same card on the top of the pile, the pile is CLEARED to DISCARD.
@@ -42,4 +43,5 @@
 >   > - 10: CLEAR the pile to discard
 >   > - 2: Playable at any time regardless of what's on the pile. Think of this card as a lifeline.
 
-3.
+3. Once you have played all of the cards in your hand, pick up your FACE-UP cards. These are now your hand, and you need to continue playing until you've gotten rid of those.
+4. Once you've gotten rid of those cards, and your turn comes around, you have to play one of your face-downs at random. The main rules still apply!

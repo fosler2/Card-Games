@@ -1,10 +1,10 @@
-# **aka Cheesedog - 3 Steps to the Deal, 4 Steps to the Gameplay! 7 Easy Steps to Endless Fun with Friends and Loved Ones.**
+# **aka Cheesedog - A Game of Endless Fun**
 
-#### _Test your wits with a hearty game of [REDACTED] AKA CHEESEDOG !!! Best suited for 3ish to about 8 to 10ish players. 6 or 7 is a good number in my opinion. Credit to Jack for teaching me this game\._
+#### _REQUIRES: 2 standard card decks, 3ish - 8ish players. 6 or 7 is a good number in my opinion. 10-30 minutes to play depending on the experience level of the players\._
 
 <br/>
 
-#### _It's a game of chance and sneaky strategy. There are no winners, but there is always one loser, so you play the game out until it's down to the last person._
+#### _Test your wits with a hearty game of [REDACTED] AKA CHEESEDOG - a perfect balance of chance and sneaky strategy!!! It's similar to Uno, but WAY BETTER. There are no winners, but there is always one loser. Credit to Jack for originally teaching me the rules._
 
 <br/>
 
@@ -39,6 +39,7 @@
 > - RULE 1b: If none of your cards can be legally played, you have to pick up the pile.
 > - RULE 1c: ACES are HIGH.
 > - RULE 1d: If you have multiple of the same card, you may play any number of them at the same time, including all of them at once.
+> - RULE 1e: Cards in your hand must be played first.
 
 ### Section 2 - Clearing the Pile
 
@@ -48,15 +49,25 @@
 
 ### Section 3 - Special Cards
 
-> _Note: Special cards still hold the value displayed on their face. For example, a 7 cannot be placed on an 8 or higher, because of rule 1a._
+> _Note: Special cards still hold the value displayed on their face. For example, a 7 cannot be placed on a Queen or something, because of rule 1a._
 >
-> - 7: SKIP the next player. Multiple 7's skip multiple players. It's customary to say "skip" for each 7 you put down.
-> - 8: the NEXT player has to play a card LESS THAN or EQUAL TO 8. It's customary to say "less than" or "lower" or something to that effect when you play an 8.
-> - 9: REVERSE the direction of play. Multiple 9's reverse the direction multiple times. It's customary to say "reverse" for each 9 you put down.
+> - 7: SKIP the next player. Multiple 7's skip multiple players.
+> - 8: the next player has to play a card LESS THAN or EQUAL TO 8.
+> - 9: REVERSE the direction of play. Multiple 9's reverse the direction multiple times. For example, with two 9's, play continues in the direction it was going prior to those two 9's being played. This is a "reverse reverse."
 > - 10: CLEAR the pile to discard.
-> - 2: Playable at any time regardless of what's on the pile. Think of this card as a lifeline.
+> - 2: The "best" card. Playable at any time regardless of what's on the pile. Tip: think of this card as a lifeline. Notice that when a 2 is played, the pile is effectively "reset" since 2 is the smallest card.
 
-### Section 4 - Post-Early Game
+### Special Cards Quick Reference:
 
+- 7 SKIP
+- 8 LESS THAN
+- 9 REVERSE
+- 10 CLEAR
+- 2 LIFELINE
+
+### Section 4 - Mid-Game and End-Game Stages
+
+> - RULE 4. All previous rules apply to these stages.
 > - RULE 4a. Once you have played all of the cards in your hand, pick up your FACE-UP cards. These are now your hand, and you need to continue playing (essentially follow step 2 above) until you've gotten rid of all of those cards.
-> - RULE 4b. Once you've gotten rid of those cards, and your turn comes around, you have to play one of your FACE-DOWN at random. The main rules after step 2 still apply!
+> - RULE 4b. Once you've run out of cards again, so only your FACE-DOWNS remain, you have to play your FACE-DOWN cards blindly, one by one. You do not have to show your card. These moves are your "FLIPS." Sometimes, your turn will happen after someone picks up the pile, and this is called a "FREE FLIP" since your FACE-DOWN card is guaranteed to be playable on an empty pile.
+> - RULE 4c. Once you've run out of cards for the third time (meaning there are no more cards in your hand, and no more FACE-UP or FACE-DOWN cards left in front of you), congratulations! You've avoided defeat. The game continues until there is exactly one loser - everyone but this person will have played all their cards.

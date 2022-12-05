@@ -40,7 +40,7 @@
 > - RULE 1c: You may choose to pick up the pile even if you don't have to.
 > - RULE 1d: ACES are HIGH.
 > - RULE 1e: If you have multiple of the same card, you may play any number of them at the same time, including all of them at once.
-> - RULE 1f: Cards in your hand must be played first.
+> - RULE 1f: Cards in your hand must always be played first at any stage of the game.
 
 ### Section 2 - Clearing the Pile
 

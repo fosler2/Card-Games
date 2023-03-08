@@ -41,6 +41,7 @@
 > - RULE 1d: ACES are HIGH.
 > - RULE 1e: If you have multiple of the same card, you may play any number of them at the same time, including all of them at once.
 > - RULE 1f: Cards in your hand must always be played first at any stage of the game.
+> - RULE 1g: If you eat a card, it does not have to be played. This applies to both cards in your hand and FACE-DOWN cards. You must place the intact card in your mouth, chew, and swallow without washing the card down with a beverage.
 
 ### Section 2 - Clearing the Pile
 

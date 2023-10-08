@@ -18,6 +18,9 @@
       margin: 0;
       background-color: #2c8257; /* A green background color */
     }
+    #cardContainer {
+      position: relative;
+    }
     #cardBack {
       width: 60px;
       height: 90px;
@@ -26,6 +29,13 @@
       border: 1px solid #aaa;
       border-radius: 5px;
       display: none; /* Hidden initially */
+    }
+    #dealButton {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: none;
     }
   </style>
 </head>
@@ -37,7 +47,10 @@
   </div>
 
   <div id="game-board" style="display: none;">
-    <div id="cardBack"></div>
+    <div id="cardContainer">
+      <div id="cardBack"></div>
+      <button id="dealButton" onclick="deal()">Deal</button>
+    </div>
     <!-- Add your game elements (cards, player info, etc.) here -->
   </div>
 
@@ -74,6 +87,14 @@
 
       // Display the card back after the game starts
       document.getElementById('cardBack').style.display = 'block';
+
+      // Display the deal button
+      document.getElementById('dealButton').style.display = 'block';
+    }
+
+    function deal() {
+      // Implement the deal logic here
+      console.log('Dealing cards...');
     }
   </script>
 </body>

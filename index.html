@@ -9,6 +9,24 @@
       font-family: Arial, sans-serif;
     }
     */
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #2c8257; /* A green background color */
+    }
+    #cardBack {
+      width: 60px;
+      height: 90px;
+      background-image: url('images/back.png'); /* Adjust the path based on your file location */
+      background-size: cover;
+      border: 1px solid #aaa;
+      border-radius: 5px;
+      display: none; /* Hidden initially */
+    }
   </style>
 </head>
 <body>
@@ -19,49 +37,44 @@
   </div>
 
   <div id="game-board" style="display: none;">
+    <div id="cardBack"></div>
     <!-- Add your game elements (cards, player info, etc.) here -->
   </div>
 
   <script>
-    let numPlayers;
+    const suits = ['hearts', 'diamonds', 'clubs', 'spades'];
+    const cardValues = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
+
+    const deck = [];
+
+    // Generate the deck with two standard card decks
+    for (let i = 0; i < 2; i++) {
+      for (let suit of suits) {
+        for (let value of cardValues) {
+          const card = {
+            value: value,
+            suit: suit,
+            image: `images/${value}_of_${suit}.png`, // Card image URL
+          };
+          deck.push(card);
+        }
+      }
+    }
 
     function startGame() {
-      numPlayers = parseInt(document.getElementById('playerCount').value, 10);
+      const numPlayers = parseInt(document.getElementById('playerCount').value, 10);
 
-      // Check if the entered number of players is valid
       if (isNaN(numPlayers) || numPlayers < 4 || numPlayers > 8) {
         alert('Please enter a valid number of players between 4 and 8.');
         return;
       }
 
-      // Hide setup section and show game board
       document.getElementById('setup-section').style.display = 'none';
       document.getElementById('game-board').style.display = 'block';
 
-      // Start the game with the specified number of players
-      startGameWithPlayers(numPlayers);
+      // Display the card back after the game starts
+      document.getElementById('cardBack').style.display = 'block';
     }
-
-    function startGameWithPlayers(numPlayers) {
-      // Implement game start logic with the specified number of players
-      console.log('Starting game with ' + numPlayers + ' players.');
-      // Add your game initialization logic here
-    }
-
-    // Example: Define functions for shuffling and dealing cards
-    function shuffleDeck(deck) {
-      // Implement card shuffling logic
-    }
-
-    function dealCards(deck, numPlayers) {
-      // Implement card dealing logic
-    }
-
-    // Example: Create a sample deck of cards
-    const deck = ['Card1', 'Card2', 'Card3', /* ... */];
-
-    // Shuffle and deal cards when the game starts
-    shuffleDeck(deck);
   </script>
 </body>
 </html>

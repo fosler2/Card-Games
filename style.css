@@ -6,11 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #2c8257; /* A green background color */
-  }
-  
-  #cardContainer {
-    position: relative;
-  }
+  } 
   
   #cardBack {
     width: 60px;
@@ -29,4 +25,7 @@ body {
     transform: translateX(-50%);
     display: none;
   }
-  
+
+  .player {
+    border: 1px solid #ffff;
+  }

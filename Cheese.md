@@ -1,4 +1,4 @@
-# **[CENSORED] aka Cheesedog - A Game of Endless Fun**
+# **Cheese - A Game of Endless Fun**
 
 #### _REQUIRES: 2 standard card decks, 3ish - 8ish players. 6 or 7 is a good number in my opinion. 10-30 minutes to play depending on the experience level of the players\._
 

@@ -4,7 +4,7 @@
 
 <br/>
 
-#### _Test your wits with a hearty game of [CENSORED] AKA CHEESEDOG - a perfect balance of chance and sneaky strategy!!! It's similar to Uno, but WAY BETTER. There are no winners, but there is always one loser. Credit to Jack for originally teaching me the rules._
+#### _Test your wits with a hearty game of CHEESE - a perfect balance of chance and sneaky strategy!!! It's similar to Uno, but WAY BETTER. There are no winners, but there is always one loser. Credit to Jack for originally teaching me the rules._
 
 <br/>
 

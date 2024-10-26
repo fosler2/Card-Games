@@ -52,11 +52,11 @@
 
 > _Note: Special cards still hold the value displayed on their face. For example, a 7 cannot be placed on a Queen or something, because of rule 1a._
 >
-> - 7: SKIP the next player. Multiple 7's skip multiple players.
-> - 8: the next player has to play a card LESS THAN or EQUAL TO 8.
-> - 9: REVERSE the direction of play. Multiple 9's reverse the direction multiple times. For example, with two 9's, play continues in the direction it was going prior to those two 9's being played. This is a "reverse reverse."
-> - 10: CLEAR the pile to discard.
-> - 2: The "best" card. Playable at any time regardless of what's on the pile. Tip: think of this card as a lifeline. Notice that when a 2 is played, the pile is effectively "reset" since 2 is the smallest card.
+> - THE 7 CARD: SKIP the next player. Multiple 7's skip multiple players.
+> - THE 8 CARD: the next player has to play a card LESS THAN or EQUAL TO 8.
+> - THE 9 CARD: REVERSE the direction of play. Multiple 9's reverse the direction multiple times. For example, with two 9's, play continues in the direction it was going prior to those two 9's being played. This is a "reverse reverse."
+> - THE 10 CARD: CLEAR the pile to discard.
+> - THE 2 CARD: The "best" card. Playable at any time regardless of what's on the pile. Tip: think of this card as a lifeline. Notice that when a 2 is played, the pile is effectively "reset" since 2 is the smallest card.
 
 ### Special Cards Quick Reference:
 

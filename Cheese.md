@@ -77,5 +77,5 @@
 
 ### Section 5 - Game Finished
 
-> - (optional) RULE 5a. Traditionally, the loser has to take a shot of the weirdest alcoholic drink available. For example, cheap cherry-flavored vodka.
+> - (optional) RULE 5a. Traditionally, the loser has to take a shot of the weirdest alcoholic drink available. For example, shitty cherry-flavored vodka.
 > - RULE 5b. Gather the cards, move the deal to the left, shuffle, and play again!
